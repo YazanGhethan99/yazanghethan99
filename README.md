@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Yazan Khaled  👋</h1>
-  <h3 align="center">QA Automation Engineer | SDET | Quality Assurance Specialist</h3>
+  <h3 align="center">QA Automation Engineer</h3>
   
   <p align="center">
     <a href="mailto:yazan.ghethan@jo.zain.com">
