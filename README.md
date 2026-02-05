@@ -1,48 +1,32 @@
 Hi there, I'm Yazan Khaled 👋
-QA Automation Engineer | SDET Specialist
+QA Automation Engineer | SDET | Quality Assurance Specialist
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 👨‍💻 About Me
-I am a QA Automation Engineer dedicated to ensuring software excellence through rigorous testing methodologies. My expertise lies in building comprehensive automation suites and performing deep-dive API testing to ensure system reliability and performance.
+I am a QA Automation Engineer focused on ensuring software quality through automated and manual testing. My experience focuses on building robust test automation frameworks and ensuring application stability through rigorous testing cycles.
 
-🔭 Current Focus: Building scalable Test Automation Frameworks and enhancing CI/CD test gates.
+🔭 I’m currently working on: Test Automation Frameworks & Advanced Scripting.
 
-🌱 Learning: Performance testing with JMeter and advanced Cloud QA strategies.
+🌱 I’m currently learning: CI/CD Pipelines for QA & Cloud Testing Environments.
 
-⚡ Fun fact: If there's a bug hiding in the logic, I have the script to find it.
+👯 I’m looking to collaborate on: Open Source QA Tools & Automation Frameworks.
 
-🧪 QA & Automation Tech Stack
-Automation Frameworks & Tools
-Web Automation: Selenium WebDriver, TestNG, Playwright.
+⚡ Fun fact: I can build the test suite, and then write the script to break the system!
 
-API Testing: Postman, RestSharp, Newman.
+🛠️ Tech Stack & Tools
+🧪 QA & Automation
 
-BDD/TDD: SpecFlow, Cucumber.
+💻 Scripting & Databases (for Testing)
 
-Mobile Testing: Appium (Learning/Exploring).
+⚙️ Tools & DevOps
 
-Testing Methodologies
-Core QA: SDLC & STLC, Test Case Design, Bug Lifecycle Management.
-
-Testing Types: Regression, Integration, Smoke, Functional, and Black-box Testing.
-
-Reporting: Extent Reports, Allure Reporting.
-
-Technical Skills for QA
-Languages for Testing: C#, Java, JavaScript (Focused on scripting).
-
-Databases: SQL Server (Data Integrity & Backend Testing).
-
-Tools & DevOps: Git, GitHub Actions, Jira, Azure DevOps.
-
-💼 Professional QA Experience
+💼 Professional Experience
 QA & Automation Engineer
-Framework Development: Designed and maintained automated test scripts using TestNG and Selenium to ensure cross-browser compatibility and UI stability.
 
-API Quality Assurance: Conducted extensive API validation using Postman, focusing on endpoint security, response schemas, and integration flows for the Fawateer project.
+Developed automated test scripts using Selenium WebDriver and C# for projects like Demo Web Shop and Swag Labs.
 
-Manual & Automated Synergy: Balanced manual exploratory testing with automated regression suites to maintain high-quality delivery within Agile sprints.
+Executed API testing using Postman and TestNG to validate payment endpoints and business logic for the Fawateer project.
 
-Defect Tracking: Managed the full bug lifecycle in Jira, collaborating closely with developers to ensure timely resolutions and re-testing.
+Performed comprehensive Manual Testing including Test Case Design and Bug Reporting within STLC & SDLC frameworks.
 
-📈 My GitHub Stats
-📫 Connect with me:
-LinkedIn | Email
+Built and maintained data-driven test suites to ensure high code coverage and system reliability.
