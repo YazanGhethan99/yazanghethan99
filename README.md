@@ -65,8 +65,4 @@ I am a **QA Automation Engineer** with a strong background in ensuring software 
 * Performed manual testing (Test Case Design, Bug Reporting) within **STLC & SDLC** frameworks to ensure software stability. 
 * Streamlined testing workflows and automated repetitive tasks using **n8n** and CI/CD tools.
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
