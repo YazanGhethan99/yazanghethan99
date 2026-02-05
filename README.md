@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **QA Automation Engineer** dedicated to ensuring software excellence through rigorous testing methodologies. My expertise lies in building comprehensive automation suites and performing deep-dive API testing to ensure system reliability and performance.
+I am a **QA Automation Engineer** with a strong background in ensuring software excellence. My experience ranges from building automated test scripts to ensuring system stability through rigorous manual and automated testing.
 
 * 🔭 I’m currently working on: **Test Automation Frameworks & Advanced Scripting**
 * 🌱 I’m currently learning: **Advanced CI/CD Pipelines & Cloud Testing**
@@ -31,6 +31,7 @@ I am a **QA Automation Engineer** dedicated to ensuring software excellence thro
 <p>
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Katalon" src="https://img.shields.io/badge/-Katalon-3FB55B?style=flat-square&logo=katalon-studio&logoColor=white" />
   <img alt="TestNG" src="https://img.shields.io/badge/-TestNG-FF7F00?style=flat-square&logo=testng&logoColor=white" />
   <img alt="JMeter" src="https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white" />
   <img alt="Appium" src="https://img.shields.io/badge/-Appium-662D91?style=flat-square&logo=appium&logoColor=white" />
@@ -47,6 +48,7 @@ I am a **QA Automation Engineer** dedicated to ensuring software excellence thro
 
 #### ⚙️ Tools & DevOps
 <p>
+  <img alt="n8n" src="https://img.shields.io/badge/-n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
@@ -58,10 +60,10 @@ I am a **QA Automation Engineer** dedicated to ensuring software excellence thro
 ### 💼 Professional Experience
 
 **QA & Automation Engineer**
-* Developed automated test scripts using **Selenium WebDriver**, **TestNG**, and **C#** for projects like *Demo Web Shop* and *Swag Labs*.
-* Executed **API testing** using **Postman** to validate payment endpoints and business logic for *Fawateer* project.
-* Performed **Manual Testing** (Test Case Design, Bug Reporting) within **STLC & SDLC** frameworks to ensure system stability.
-* Managed the full bug lifecycle and collaborated with developers to ensure timely resolution of defects.
+* Developed automated test scripts using **Selenium WebDriver**, **Katalon**, and **C#** for projects like *Demo Web Shop* and *Swag Labs*. 
+* Executed **API testing** using **Postman** to validate payment endpoints and business logic for the *Fawateer* project. 
+* Performed manual testing (Test Case Design, Bug Reporting) within **STLC & SDLC** frameworks to ensure software stability. 
+* Streamlined testing workflows and automated repetitive tasks using **n8n** and CI/CD tools.
 
 ---
 
