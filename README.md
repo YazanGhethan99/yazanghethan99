@@ -60,7 +60,7 @@ I am a **QA Automation Engineer** with a strong background in ensuring software 
 ### 💼 Professional Experience
 
 **QA & Automation Engineer**
-* Developed automated test scripts using **Selenium WebDriver**, **Katalon**, and **C#** for projects like *Demo Web Shop* and *Swag Labs*. 
+* Developed automated test scripts using **Selenium WebDriver**, **Katalon**, and **C#** .
 * Executed **API testing** using **Postman** to validate payment endpoints and business logic for the *Fawateer* project. 
 * Performed manual testing (Test Case Design, Bug Reporting) within **STLC & SDLC** frameworks to ensure software stability. 
 * Streamlined testing workflows and automated repetitive tasks using **n8n** and CI/CD tools.
