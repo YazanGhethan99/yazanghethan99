@@ -3,7 +3,7 @@
   <h3 align="center">QA Automation Engineer</h3>
   
   <p align="center">
-    <a href="mailto:yazan.ghethan@jo.zain.com">
+    <a href="mailto:yazan.ghethan@zaincash.jo">
       <img src="https://img.shields.io/badge/Email-yazan.ghethan@jo.zain.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/yazan-khaled-451522266/">
