@@ -4,7 +4,7 @@
   
   <p align="center">
     <a href="mailto:yazan.ghethan@zaincash.jo">
-      <img src="https://img.shields.io/badge/Email-yazan.ghethan@jo.zain.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-yazan.ghethan@zaincash.jo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/yazan-khaled-451522266/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
