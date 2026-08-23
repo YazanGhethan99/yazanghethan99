@@ -6,14 +6,16 @@
 
 *Building reliable software through rigorous manual & automated testing — from UI to API to database.*
 
-<p>
+<p align="left">
   <a href="mailto:yazan.ghethan@zaincash.jo">
     <img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/yazan-khaled-451522266/">
+  <a href="https://www.linkedin.com/in/yazan-khaled-451522266/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=yazank-99&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://yazank99.online/" target="_blank" rel="noopener noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=yazank-99&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
 </p>
 
 </div>
