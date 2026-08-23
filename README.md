@@ -92,27 +92,3 @@ I'm a **QA Automation Engineer** focused on software excellence — designing te
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yazank-99&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Yazan's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazank-99&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=yazank-99&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yazank-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-*"Quality is never an accident; it is always the result of intelligent effort."*
-
-</div>
