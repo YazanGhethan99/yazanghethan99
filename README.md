@@ -6,7 +6,7 @@
 
 *Building reliable software through rigorous manual & automated testing — from UI to API to database.*
 
-<p align="left">
+<p align="center">
   <a href="mailto:yazan.ghethan@zaincash.jo">
     <img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
