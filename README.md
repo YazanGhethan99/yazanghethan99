@@ -101,7 +101,7 @@ I'm a **QA Automation Engineer** focused on software excellence — designing te
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yazank-99&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=yazank-99&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
 <br/>
 
